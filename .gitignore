@@ -5,12 +5,7 @@
 !.project
 !.tomcatplugin
 !.gitattributes
-!.idea/
-.idea/dictionaries/
-.idea/gradle.xml
-.idea/misc.xml
-.idea/uiDesigner.xml
-.idea/workspace.xml
+.idea/
 bin/
 ide/
 lib/
